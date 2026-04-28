@@ -6,15 +6,15 @@
 
     let dynamicServices = [   // default services - editable
 
-        { name: "🌐 Browsing 1hr", price: 200 },
+        { name: "Printing", price: 200 },
 
-        { name: "🖨️ Print B&W", price: 50 },
+        { name: "Photocopy", price: 100 },
 
-        { name: "🎨 Print Color", price: 150 },
+        { name: "Typesetting", price: 500 },
 
-        { name: "📄 Lamination", price: 300 },
+        { name: "Passport", price: 800 },
 
-        { name: "📸 Scanning", price: 100 }
+        { name: "ID Card", price: 2000 }
 
     ];
 
